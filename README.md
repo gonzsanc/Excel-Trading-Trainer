@@ -23,3 +23,12 @@ Once the data sheet is populated, click on the "reset charts" button on the bott
 Insert an integer (ie 1) in cell BD36 (its fixed named range is "iterator_positions") and then click on the "move bars" button to move one step forward.
 
 The tool supports both positive and negative values to move bars forward and backwards respectively. However, at this stage it is recommended not to go backwards beyond the initial default bar generated on clicking "reset charts" button.
+
+## Sample Data:
+Over 400Mb of stock data from New York Stock Exchange companies can be downloaded already prepared for Excel here:
+https://drive.google.com/drive/folders/18DkJeCqpibKdR8ezwk9hGjdHYSGwovWH?usp=sharing
+
+Before pasting the values on the data sheet:
+- The decimal separator is "comma". If the destination system is configured with another decimal place separator, the values on the original csv file shall be replaced first.
+- The field separator is tabulation, not comma. It fits perfectly on Excel sheets.
+
