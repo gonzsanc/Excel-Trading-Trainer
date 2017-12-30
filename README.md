@@ -3,7 +3,7 @@ An Excel-based tool to train financial trading with real stock and financial dat
 
 Only a few features are implemented, but good enough to be useful. If I upgrade the tool I will upload the file with new features such as automatic buy/sell/limit/sl/tp management.
 
-The charting capabilities of Excel are unexplored to me and however, they seem quite limited if compared with other frameworks like matplotlib, d4.js, anystock etc. Anyway, Excel is a reliable program, extremely easy for programming and for creating working basic tools very fast.
+The charting capabilities of Excel are unexplored to me and however, they seem quite limited if compared with other frameworks like matplotlib, d3.js, anystock etc. Anyway, Excel is a reliable program, extremely easy for programming and for creating working basic tools very fast.
 
 ## Instructions:
 
