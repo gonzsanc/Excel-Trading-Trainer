@@ -18,11 +18,18 @@ The data sheet must contain at least the following columns in this order:
 The other two are not used currently.
 
 #### ITERATOR SHEET
+
+##### Reset Charts Defaults
 Once the data sheet is populated, click on the "reset charts" button on the bottom-left and the charts and displays will be automatically updated and adjusted with the data.
 
+##### Move Bars
 Insert an integer (ie 1) in cell BD36 (its fixed named range is "iterator_positions") and then click on the "move bars" button to move one step forward.
 
 The tool supports both positive and negative values to move bars forward and backwards respectively. However, at this stage it is recommended not to go backwards beyond the initial default bar generated on clicking "reset charts" button.
+
+##### Buy/Sell Buttons and Operations Row
+Use the buttons to open and close operations. Only one "Open" operation per bar is allowed.
+To reset the operations panel, click on the reset operations button.
 
 ## Sample Data:
 Over 400Mb of stock data from New York Stock Exchange companies can be downloaded already prepared for Excel here:
