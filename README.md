@@ -5,7 +5,7 @@ Only a few features are implemented, but good enough to be useful. If I upgrade 
 
 The charting capabilities of Excel are unexplored to me and however, they seem quite limited if compared with other frameworks like matplotlib, d3.js, anystock etc. Anyway, Excel is a reliable program, extremely easy for programming and for creating working basic tools very fast.
 
-# Downloads
+## Downloads
 The file is in the "src" folder. You can download it clicking on the following link: https://github.com/gonzsanc/Excel-Trading-Trainer/blob/master/src/Excel_Trading_Trainer.xlsm
 
 ## Instructions:
