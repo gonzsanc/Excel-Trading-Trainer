@@ -10,6 +10,8 @@ The file is in the "src" folder. You can download it clicking on the following l
 
 ## Instructions:
 
+The detailed instructions can be found at the [official site](http://gonzalopla.com/excel-trading-trainer).
+
 #### DATA SHEET
 The data sheet must contain at least the following columns in this order:
 - Price date
