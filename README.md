@@ -36,6 +36,9 @@ The tool supports both positive and negative values to move bars forward and bac
 Use the buttons to open and close operations. Only one "In Progress" operation per bar is allowed.
 To reset the operations panel, click on the reset operations button.
 
+#### INDICATORS SHEET
+This sheet extends the information from the current and previous bars. It provides absolute, relative, dynamic and technical indicators with a wide range of magnitudes. The sheet includes contextual help for each magnitude and a brief description of it.
+
 ## Sample Data:
 Over 400Mb of stock data from New York Stock Exchange companies can be downloaded already prepared for Excel here:
 https://drive.google.com/drive/folders/18DkJeCqpibKdR8ezwk9hGjdHYSGwovWH?usp=sharing
